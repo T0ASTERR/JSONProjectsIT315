@@ -1,9 +1,9 @@
 {
-  "Reviews":
+  "AllergenSymptoms":
   [
-    {"ReviewDescription":"'I can't imagine managing my child's appointments, diet, and allergies without this app. It's like having a personal assistant for parenting. It's a must-have for busy parents!' -John","ReviewImage":"https://github.com/T0ASTERR/JSONProjectsIT315/blob/6341b16463cf5183e4d7fd905189d662a65fcfb5/photo1.jpeg"},
-    {"ReviewDescription":"'As a working parent, I needed a way to stay organized and ensure my child's safety. This app does it all. It's convenient, easy to use, and a real time-saver. I love it!' -Barbara","ReviewImage":"https://github.com/T0ASTERR/JSONProjectsIT315/blob/6341b16463cf5183e4d7fd905189d662a65fcfb5/photo2.jpeg"},
-    {"ReviewDescription":"'This app has been a lifesaver for me. It helps me keep track of my child's diet and allergies with ease. The user interface is simple and intuitive. Highly recommended!' -Susan","ReviewImage":"https://github.com/T0ASTERR/JSONProjectsIT315/blob/6341b16463cf5183e4d7fd905189d662a65fcfb5/photo3.jpeg"}
+    {"AllergenDesctiption":"Hives are raised, often itchy, red bumps (welts) on the surface of the skin. They can be an allergic reaction to food or medicine. They can also appear without cause.","ReviewImage":"https://github.com/T0ASTERR/JSONProjectsIT315/blob/febf0889281042c5e83339eb5729c2996ae63ec1/allergen1.jpeg", "AllergenName":"Hives"},
+    {"AllergenDesctiption":"Angioedema is the swelling of the deeper layers of the skin, caused by a build-up of fluid.","ReviewImage":"https://github.com/T0ASTERR/JSONProjectsIT315/blob/febf0889281042c5e83339eb5729c2996ae63ec1/allergen2.jpeg", "AllergenName":"Angiodema"},
+   {"AllergenDesctiption":"An oral allergy experience is a tingling sensation in the mouths and on lips in the moments during and after eating the offending food.","ReviewImage":"https://github.com/T0ASTERR/JSONProjectsIT315/blob/febf0889281042c5e83339eb5729c2996ae63ec1/allergen3.jpeg", "AllergenName":"Oral Allergy"}
   ],
   "Status":"OK"
 }
